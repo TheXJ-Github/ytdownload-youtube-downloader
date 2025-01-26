@@ -1,5 +1,5 @@
 > [!WARNING]
-> I am not responsible if you use this to download and distribute copyrighted material. This tool is made only for educational purposes and is not intended to pirate copyrighted material.<br>
+> I am not responsible if you use this to download and distribute copyrighted material. This tool is made only for educational purposes and is not intended to be used for piracy. Please review online piracy laws before using this tool.<br>
 > If you use code from this project, you must make your project open-source and give me credit as mentioned in the **GPL-3.0 license**.
 
 # General Information
