@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">ytdownload.py</h3><h4 align="center">Easily and Quickly download YouTube videos</h3>
+  <h3 align="center">ytdownload.py</h3><h4 align="center">Download from multiple YouTube URL's quickly and easily</h3>
 </p>
 
 > [!WARNING]
