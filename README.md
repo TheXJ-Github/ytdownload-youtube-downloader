@@ -1,5 +1,6 @@
 > [!WARNING]
-> I am not responsible if you use this to download and distribute copyrighted material. This tool is made only for educational purposes and is not intended to pirate copyrighted material.
+> I am not responsible if you use this to download and distribute copyrighted material. This tool is made only for educational purposes and is not intended to pirate copyrighted material.<br>
+> If you use the code from this project, you must open-source your project and give me credit as outlined in the **GPL-3.0 license**.
 
 # General Information
 **ytdownload** is a simple python script that allows you to quickly and easily download either videos or audios from multiple YouTube Url's
