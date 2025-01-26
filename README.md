@@ -1,3 +1,7 @@
+<p align="center">
+  <h3 align="center">ytdownload.py</h3><h4 align="center">Easily and Quickly download YouTube videos</h3>
+</p>
+
 > [!WARNING]
 > I am not responsible if you use this to download and distribute copyrighted material without permission from the original authors. This tool is made only for educational purposes and is not intended to be used for piracy.<br>
 > If you use code from this project, you must make your project open-source and give me credit as mentioned in the **GPL-3.0 license**.
