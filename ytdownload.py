@@ -18,10 +18,12 @@ class ProgressLogger:
     def error(self, msg):
         print(msg)
 
+# Hook the Youtube_DL's download progress to output messages
 def ProgressHook(d):
     if d['status'] == 'finished':
         print(f'Post-processing "{d['info_dict']['title']}"...')
 
+# Ask the user to input URL's to download from
 def AskUser():
     uri = input("Enter Youtube Urls (separate with spaces): ")
     user_option = input("Download as Video(1) or Audio(2): ")
@@ -57,6 +59,15 @@ def AskUser():
         print("Finished!")
     except Exception as e:
         print(f"Failed to download: {e}")
+
+    do_exit = input("Do you want to exit? (Y/n): ")
+    if (do_exit.lower() == "y"):
+        exit()
+    else:
+        print("\n")
+
+print("<--- ytdownload.py YouTube Downloader --->")
+print("<--- https://github.com/TheXJ-Github ---->")
 
 while (True):
     AskUser()
